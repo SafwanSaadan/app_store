@@ -5,7 +5,6 @@ import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:get/get.dart';
 
 import '../../controller/FloatingController.dart';
-import '../../core/constant/AppRoutes.dart';
 import '../../core/services/get_all_product_service.dart';
 import '../../data/datasource/bg_data.dart';
 import '../../data/model/product_model.dart';

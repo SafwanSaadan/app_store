@@ -9,7 +9,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'core/constant/AppThemeData.dart';
 import 'routes.dart';
 import 'view/screen/home_page.dart';
-import 'view/screen/onBoarding.dart';
+// import 'view/screen/onBoarding.dart';
 
 late final SharedPreferences? sharedPref;
 
